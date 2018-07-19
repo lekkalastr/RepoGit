@@ -1,0 +1,36 @@
+#==> usr logined as a root
+$==> if we logi as other user
+pwd==> present working directory-->where we are (in which path we are there)->absolute path
+
+==>default files-> cd / ->ls -> default files will display(bin,boot,dev,etc,home,nedia,mnt,opt,proc,root,srv,sys,usr,var)opt-->we will enter only in these because no file or software will exist..->etc-->all server related config details will store in this..->home-->number of users related info will be there
+who-->shows whoever logined in your server
+whoami-->shows which user logined
+who am i-->shows current user ,terminal ,from when you logined and ip address displays
+w-->same as who
+uname-->to know server name
+uname -r-->server release shows
+uname -a-->entire server info shows
+ls-->specific path shows list of files and directories
+ls -l-->long list-->displays in detailed
+ls -a-->displays hidden files(hidden files starts with'.')
+ls -al(la)-->displays long list hidden files
+date-->to know server date
+cal-->current year and month running shows
+cal 2019-->shows all months in that year
+cal 2019 11--> shows that year and specific month displays
+
+absoulte path,relative path,relavent path-->
+
+==>absolute path means if we need to enter into one directory we need to give path from home directory 
+
+==>relative or relavnt path means we need to enter into one folder we give the immediate path i.e.,next entry folder
+
+rm -rf *-->forcefully removes all files
+rm -rf dir-->removes directories which contains files
+
+mkdir -p d1/d2/d3-->nested directory creation
+
+
+ls-lt-->displays wrt time 
+ls -ltr-->recursivly displays 	
+

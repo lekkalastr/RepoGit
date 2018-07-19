@@ -1,0 +1,12 @@
+CM Tools
+--------
+	Chef ansible puppet ...
+What Happens here
+	==>CM Tool-->To manage the n number of clients we use CM tool.
+	==>
+
+
+Cloud
+======
+Why cloud ,what is the use
+ 
